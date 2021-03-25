@@ -1,0 +1,58 @@
+#container{
+    margin-left: auto;
+    margin-right: auto;
+}
+#content{
+    width: 850px;
+    height: 400px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+    background-image:url(Bez%C2%A0tytu%C5%82u.jpg);
+    border: 2px solid black;
+    color: white;
+    
+}
+.dick{
+    width: 380px;
+    height: 100px;
+    position:relative;
+    top: 70px;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+#bib{
+    margin-left: 10px;
+}
+#haha{
+    width: 850px;
+    height: 150px;
+    float: left;
+    position: relative;
+    top: 140px;
+}
+#klik{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    left: 340px;
+    top: 6px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+button:hover{
+    background: lightgreen;
+}
+#wyn{
+position:relative;
+    left: 320px;
+    font-size: 20px;
+}
+#d{
+    position: absolute;
+    color: black;
+    right: 10px;
+    top: -10px;
+}
